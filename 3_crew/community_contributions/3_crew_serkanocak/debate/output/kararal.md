@@ -1,0 +1,1 @@
+Moderna, Inc. (MRNA) hisse senedine yatırım yapmak, güçlü inovatif potansiyeli ve finansal durumu göz önüne alındığında stratejik bir fırsat sunabilir; ancak COVID-19 sonrası talep düşüşü, yüksek değerleme riskleri ve düzenleyici belirsizlikler, yatırım kararında dikkatlice değerlendirilmesi gereken önemli unsurlardır.

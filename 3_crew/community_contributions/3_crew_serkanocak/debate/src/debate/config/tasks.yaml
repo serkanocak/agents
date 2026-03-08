@@ -1,0 +1,24 @@
+arastir:
+  description: >
+    yatırım yapılmak istenen yatırım ürünü ile ilgili en güncel ve en önemli bilgileri araştır. yatırım ürünü : {urun}
+  expected_output: >
+    bulduğun bilgileri detaylı bir şekilde açıkla. yatırım ürünü ile ilgili önemli noktaları vurgula. yatırın aracı : {urun}
+  agent: ekonomist
+  output_file: output/arastir.md
+
+karsicik:
+  description: >
+    yatırım ürünü ile ilgili alınan kararın karşıt görüşünü savun. yatırım ürünü : {urun}
+  expected_output: >
+    görüşünü detaylı bir şekilde açıkla. yatırım ürünü ile ilgili önemli noktaları vurgula. yatırın aracı : {urun}
+  agent: ekonomist
+  output_file: output/karsicik.md
+
+kararal:
+  description: >
+      yatırım ürünü ile ilgili alınan kararın doğruluğunu değerlendir. yatırım ürünü : {urun}
+  expected_output: >
+      karar verirken seffaf ve tarafsız ol. yatırım ürünü ile ilgili önemli noktaları vurgula. bana maksimum 1 satır kararını acıkla. yatırın aracı : {urun}
+  agent: analist
+  output_file: output/kararal.md
+  
